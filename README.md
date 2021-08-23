@@ -5,7 +5,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
 ## Link
-[LuxStay](https://luxstay-nextjs.vercel.app)
+[AirBnb](https://airbnb-nextjs-app.vercel.app)
 
 ## Preview
 
